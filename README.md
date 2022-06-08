@@ -1,5 +1,5 @@
-# cron-test
-Test scheduling Python Script on GitHub.
+# Testing Python Cron-Jobs on GitHub
+CSV is created every hour that contains data and time it was run.
 
 <ul>
   <li>test.py:  script to get current date/time and export to CSV.</li>
